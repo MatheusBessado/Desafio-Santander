@@ -1,0 +1,6 @@
+chromadb
+llama-index-core
+llama-index-vector-stores-chroma
+llama-index-embeddings-google-genai
+llama-index-llms-google-genai
+python-dotenv

@@ -1,0 +1,116 @@
+BASE DE CONHECIMENTO — NEXA TECH
+Versão: 1.0 | Atualização: 20/10/2026
+
+Todos os nomes, produtos, preços, contatos, pedidos e políticas deste documento são fictícios e servem exclusivamente para testes de chatbot e RAG. As políticas abaixo representam o cenário simulado, sem finalidade de orientação jurídica.
+
+SEÇÃO 01 — SOBRE A EMPRESA
+ID: EMP-001
+A Nexa Tech é uma loja virtual fictícia de acessórios de informática. Vende teclados, mouses, fones e hubs USB para consumidores no Brasil. Não possui loja física nem retirada presencial. O site fictício é https://nexa.example. A loja aceita pedidos pelo site 24 horas por dia. O horário de atendimento humano é diferente do horário de funcionamento do site.
+
+SEÇÃO 02 — ATENDIMENTO
+ID: ATD-001
+O atendimento humano funciona de segunda a sexta-feira, das 9h às 18h, no horário de Brasília, exceto feriados. O e-mail fictício é atendimento@nexa.example. O prazo de resposta é de até dois dias úteis. Não existe telefone ou WhatsApp cadastrado nesta base. O chatbot pode responder a perguntas sobre o conteúdo deste documento a qualquer hora, mas não executa pagamentos, cancelamentos ou alterações de cadastro.
+
+SEÇÃO 03 — CATÁLOGO DE PRODUTOS
+ID: PRO-001
+Produto: Teclado Nexa K68.
+Código: K68-BR.
+Preço de tabela: R$ 249,90.
+Características: teclado mecânico com fio, layout brasileiro ABNT2, 68 teclas, switches vermelhos e iluminação branca. Conexão USB-A com cabo removível USB-C na ponta do teclado. O cabo está incluído. Compatível com Windows 10 e 11 e Linux. Não possui Bluetooth. Garantia contratual simulada: 12 meses contados da entrega.
+
+ID: PRO-002
+Produto: Mouse Nexa M200.
+Código: M200-WL.
+Preço de tabela: R$ 139,90.
+Características: mouse sem fio de 2,4 GHz, receptor USB-A incluído, seis botões e sensibilidade ajustável até 7.200 DPI. Utiliza uma pilha AA, não incluída. Compatível com Windows 10 e 11 e macOS 12 ou superior. Não possui Bluetooth nem bateria recarregável. Garantia contratual simulada: 12 meses contados da entrega.
+
+ID: PRO-003
+Produto: Headset Nexa H50.
+Código: H50-USB.
+Preço de tabela: R$ 189,90.
+Características: fone com microfone articulado, conexão USB-A, cabo de 1,8 metro e controle de volume no cabo. Compatível com Windows 10 e 11. Não possui cancelamento ativo de ruído e não funciona por Bluetooth. Compatibilidade com consoles não foi informada. Garantia contratual simulada: seis meses contados da entrega.
+
+ID: PRO-004
+Produto: Hub Nexa C7.
+Código: C7-HUB.
+Preço de tabela: R$ 219,90.
+Características: hub com conexão USB-C, três portas USB-A, uma saída HDMI e uma entrada USB-C para passagem de energia de até 100 W. O carregador não está incluído. Para saída de vídeo, a porta USB-C do computador precisa suportar DisplayPort Alt Mode. Ter uma porta USB-C, por si só, não garante saída de imagem. A base não informa resolução máxima HDMI nem compatibilidade com modelos específicos de notebook. Garantia contratual simulada: 12 meses contados da entrega.
+
+ID: PRO-005
+Os preços são valores fictícios de tabela na data de atualização. Esta base não contém estoque em tempo real. Um produto constar no catálogo não comprova disponibilidade. Não são vendidos notebooks, celulares ou placas de vídeo neste catálogo. Não há informação sobre próximas versões dos produtos.
+
+SEÇÃO 04 — PAGAMENTOS E DESCONTOS
+ID: PAG-001
+A loja aceita Pix e cartão de crédito. Não aceita boleto, criptomoedas ou pagamento na entrega. No cartão, compras podem ser divididas em até três parcelas sem juros, com parcela mínima de R$ 50,00. A confirmação do Pix pode levar até 30 minutos; a análise do cartão pode levar até dois dias úteis. Comprovante enviado por mensagem não substitui confirmação do pagamento no sistema.
+
+ID: PAG-002
+O Pix oferece 5% de desconto sobre o subtotal dos produtos. O frete não recebe desconto. O cupom fictício BEMVINDO10 concede 10% sobre o subtotal dos produtos na primeira compra de valor igual ou superior a R$ 200,00. O cupom é válido de 01/10/2026 a 31/12/2026, inclusive, e não incide sobre o frete. O cupom não é cumulativo com o desconto Pix: o cliente escolhe um dos benefícios. Não há outros cupons documentados.
+
+SEÇÃO 05 — ENTREGAS
+ID: ENT-001
+A loja entrega em todo o Brasil. O prazo de transporte começa no primeiro dia útil após a postagem. Antes disso, a separação leva até dois dias úteis após a confirmação do pagamento. Sábados, domingos e feriados não contam como dias úteis. Não é possível garantir uma data exata de chegada sem a confirmação de pagamento e a data de postagem.
+
+ID: ENT-002
+Para capitais do Sudeste: frete padrão de R$ 19,90 e transporte de três a cinco dias úteis.
+Para demais localidades do Sul e Sudeste: frete padrão de R$ 29,90 e transporte de cinco a oito dias úteis.
+Para Centro-Oeste, Nordeste e Norte: frete padrão de R$ 39,90 e transporte de sete a doze dias úteis.
+Não há entrega expressa disponível neste cenário.
+
+ID: ENT-003
+Há frete padrão grátis para endereços no Sul e Sudeste quando o subtotal dos produtos, antes dos descontos, for igual ou superior a R$ 299,00. Essa regra não se aplica às demais regiões. O benefício de frete grátis pode ser combinado com o desconto Pix ou com o cupom BEMVINDO10.
+
+ID: ENT-004
+Após a postagem, o código de rastreamento é enviado ao e-mail do pedido. O endereço pode ser alterado somente antes da emissão da nota fiscal, por solicitação ao atendimento. O chatbot não altera o endereço diretamente. Em caso de atraso, o cliente deve entrar em contato com o atendimento, informando o número do pedido. A base não permite consultar transportadoras ao vivo.
+
+SEÇÃO 06 — CANCELAMENTO, DEVOLUÇÃO E TROCA
+ID: TRO-001
+Antes da postagem, o cliente pode solicitar cancelamento ao atendimento com o número do pedido. A solicitação depende de verificação humana do status atual. Depois da postagem, a orientação neste cenário é solicitar devolução após o recebimento.
+
+ID: TRO-002
+No cenário simulado, a devolução por arrependimento pode ser solicitada até sete dias corridos após o recebimento. Deve incluir produto, acessórios e embalagem, quando disponível. A ausência da embalagem exige avaliação humana e não implica recusa automática. O atendimento fornece uma etiqueta de logística reversa sem cobrança. O chatbot informa o procedimento, mas não aprova a devolução.
+
+ID: TRO-003
+A troca por preferência de modelo pode ser solicitada em até 30 dias corridos após o recebimento, para produto sem sinais de uso e com acessórios completos. Entre o oitavo e o trigésimo dia, o frete de retorno fica a cargo do cliente. Se houver diferença de preço, ela será apurada pelo atendimento. Produtos com defeito seguem o fluxo de garantia, e não essa regra de troca por preferência.
+
+ID: TRO-004
+Após o recebimento do produto devolvido, a análise leva até cinco dias úteis. Se o reembolso for aprovado, o Pix é devolvido em até três dias úteis após a aprovação. Para cartão, a loja solicita o estorno em até cinco dias úteis após a aprovação; a visualização depende da administradora e pode ocorrer em até duas faturas. O chatbot não pode afirmar que um reembolso foi aprovado ou executado sem confirmação do sistema.
+
+SEÇÃO 07 — GARANTIA E SUPORTE TÉCNICO
+ID: GAR-001
+Para relatar defeito, o cliente deve informar o número do pedido, o produto e uma descrição do problema. Fotos ou vídeos podem ser solicitados pelo atendimento quando necessários. A análise técnica leva até dez dias úteis após o recebimento do item. Nenhum diagnóstico definitivo pode ser dado apenas com base nesta documentação. A solução será comunicada pelo atendimento após análise.
+
+ID: GAR-002
+Teclado sem resposta: conferir a conexão do cabo e testar outra porta USB.
+Mouse sem resposta: verificar a pilha, o botão de ligar e se o receptor USB está conectado. O M200 não deve ser procurado na lista de dispositivos Bluetooth.
+Headset sem som: verificar se o H50 está selecionado como saída de áudio no Windows e conferir o volume.
+Hub sem vídeo: verificar se a porta USB-C do notebook suporta DisplayPort Alt Mode. Não prometer que um adaptador resolverá a ausência desse recurso.
+Se os testes básicos não resolverem, encaminhar ao atendimento. Não orientar a abertura ou desmontagem dos produtos.
+
+SEÇÃO 08 — PRIVACIDADE E LIMITES DA BASE
+ID: PRI-001
+O chatbot não deve solicitar senha, código de autenticação, número completo de cartão ou código de segurança. Para encaminhar atendimento, o número do pedido é suficiente como referência inicial. Consultas a dados pessoais ou pedidos reais exigem autenticação e integração própria, inexistentes nesta base de testes. Não há dados de clientes reais neste documento.
+
+SEÇÃO 09 — PEDIDOS DEMONSTRATIVOS
+ID: PED-001
+Os registros abaixo são estáticos, inteiramente fictícios e retratam apenas 20/10/2026. Não representam uma consulta em tempo real. Não contêm dados pessoais.
+
+Pedido DEMO-1001: um Teclado Nexa K68; pagamento confirmado; em separação; ainda sem rastreamento; destino São Paulo, capital.
+Pedido DEMO-1002: um Mouse Nexa M200; postado em 19/10/2026; rastreio fictício TESTE1002BR; destino Curitiba. A base não informa movimentações posteriores.
+Pedido DEMO-1003: um Headset Nexa H50; aguardando confirmação de pagamento. Não há data de postagem prevista.
+Pedido DEMO-1004: um Hub Nexa C7; cancelamento confirmado em 16/10/2026; reembolso Pix aprovado em 19/10/2026; conclusão do reembolso não registrada.
+Qualquer outro número de pedido não consta nesta base. Não inventar status, cliente, prazo ou rastreamento.
+
+SEÇÃO 10 — PERGUNTAS FREQUENTES
+ID: FAQ-001
+Posso retirar pessoalmente? Não. A Nexa Tech não possui retirada presencial.
+O teclado K68 tem Bluetooth? Não. A conexão é por cabo USB.
+O mouse M200 é recarregável? Não. Ele utiliza uma pilha AA não incluída.
+Posso combinar Pix e BEMVINDO10? Não. É necessário escolher um deles.
+Frete grátis pode ser combinado com cupom? Sim, desde que os critérios de região e subtotal sejam atendidos.
+Compras de R$ 299,00 têm frete grátis em Recife? Não. A promoção contempla apenas Sul e Sudeste.
+Vocês atendem no sábado? O atendimento humano não funciona aos sábados. O site aceita pedidos e o chatbot pode responder sobre a base.
+Meu notebook tem USB-C. O hub dará vídeo? Depende de a porta suportar DisplayPort Alt Mode. É preciso consultar as especificações do notebook.
+O chatbot pode cancelar meu pedido? Não. Pode explicar como solicitar ao atendimento.
+Vocês têm o H50 em estoque agora? Esta base não contém estoque em tempo real.
+
+FIM DA BASE DE CONHECIMENTO
